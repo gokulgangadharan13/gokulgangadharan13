@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulgangadharan13
 - 👀 I’m interested in Tech, Gadgets and Space science
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Analytics at Durham College
 - 📫 How to reach me linkedin.com/in/gokul-gangadharan-2a61b9145
 
 <!---
